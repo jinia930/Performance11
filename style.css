@@ -40,7 +40,7 @@ p{
     border: 5px solid rgb(219, 72, 126);
     padding: 20px;
     margin: auto;
-    direction: ltr;
+    direction: rtl;
     unicode-bidi: bidi-override;
 }
 #top{
